@@ -1,6 +1,16 @@
 # WoW The War Within Aiko UI
-Addon profiles that I use in game. Use latest version of txt file and import it to an appropriate addon.
 ![UI](screenshot/1.0.png)
+
+## Important EN
+I use bartender4 instad of Elvui action bars. You can enable elvui action bars doing the following: 
+type `/ec` in chat. Go to `Action bars` tab and check `enabled`.
+
+In case of questions or problems, my discord: `aiko.dev`
+
+## Important RU
+Я использую bartender4 вместо панелей комманд от Elvui. Панели комманд elvui вы можете включить самостоятельно: введите `/ec` в чате. Перейдите на вкладку `Панели команд` и отметьте `Включить`.
+
+В случае вопросов или проблем, мой discord: `aiko.dev`
 
 ### 1. [Elvui (not healing things edit)](https://github.com/rodion-lezhnyuk/wow-tww-ui/blob/main/elvui/1.0.txt)
 
