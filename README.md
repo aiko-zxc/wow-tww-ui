@@ -22,6 +22,8 @@ In case of questions or problems, my discord: `aiko.dev`
 
 ### 5. [Details (Quazii edit)](https://github.com/aiko-zxc/wow-tww-ui/blob/main/details/1.0.txt)
 
+### 5. [BigWigs (Naowh edit)](https://github.com/aiko-zxc/wow-tww-ui/blob/main/bigwigs/1.0.txt)
+
 ### 6. Weak auras
 
 #### 6.1 [Custom bl sound](https://github.com/aiko-zxc/wow-tww-ui/blob/main/weak-auras/custom-bl-sound/1.0.txt)
