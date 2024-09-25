@@ -22,12 +22,16 @@ In case of questions or problems, my discord: `aiko.dev`
 
 ### 5. [Details (Quazii edit)](https://github.com/aiko-zxc/wow-tww-ui/blob/main/details/1.0.txt)
 
-### 5. [BigWigs (Naowh edit)](https://github.com/aiko-zxc/wow-tww-ui/blob/main/bigwigs/1.0.txt)
+### 6. BigWigs (Naowh edit)
 
-### 6. Weak auras
+#### 6.1 [Tank Edition](https://github.com/aiko-zxc/wow-tww-ui/blob/main/bigwigs/tank.txt)
 
-#### 6.1 [Custom bl sound](https://github.com/aiko-zxc/wow-tww-ui/blob/main/weak-auras/custom-bl-sound/1.0.txt)
+#### 6.2 [DPS Edition](https://github.com/aiko-zxc/wow-tww-ui/blob/main/bigwigs/dps.txt)
 
-#### 6.2 [Consumables, buffs and trinkets (Hijack-core edit)](https://github.com/aiko-zxc/wow-tww-ui/blob/main/weak-auras/hijack-core/1.0.txt)
+### 7. Weak auras
 
-#### 6.3 [Spell cd on nameplate (edit)](https://github.com/aiko-zxc/wow-tww-ui/tree/main/weak-auras/spell-cd-on-nameplate)
+#### 7.1 [Custom bl sound](https://github.com/aiko-zxc/wow-tww-ui/blob/main/weak-auras/custom-bl-sound/1.0.txt)
+
+#### 7.2 [Consumables, buffs and trinkets (Hijack-core edit)](https://github.com/aiko-zxc/wow-tww-ui/blob/main/weak-auras/hijack-core/1.0.txt)
+
+#### 7.3 [Spell cd on nameplate (edit)](https://github.com/aiko-zxc/wow-tww-ui/tree/main/weak-auras/spell-cd-on-nameplate)
